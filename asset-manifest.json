@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SunspotHistoryChart/static/css/main.fbf60758.chunk.css",
+    "main.js": "/SunspotHistoryChart/static/js/main.1580ceba.chunk.js",
+    "main.js.map": "/SunspotHistoryChart/static/js/main.1580ceba.chunk.js.map",
+    "runtime-main.js": "/SunspotHistoryChart/static/js/runtime-main.69a2fd34.js",
+    "runtime-main.js.map": "/SunspotHistoryChart/static/js/runtime-main.69a2fd34.js.map",
+    "static/js/2.4c5cb92f.chunk.js": "/SunspotHistoryChart/static/js/2.4c5cb92f.chunk.js",
+    "static/js/2.4c5cb92f.chunk.js.map": "/SunspotHistoryChart/static/js/2.4c5cb92f.chunk.js.map",
+    "index.html": "/SunspotHistoryChart/index.html",
+    "precache-manifest.5a69d2d61bcfbacad4d828e5a8dc371d.js": "/SunspotHistoryChart/precache-manifest.5a69d2d61bcfbacad4d828e5a8dc371d.js",
+    "service-worker.js": "/SunspotHistoryChart/service-worker.js",
+    "static/css/main.fbf60758.chunk.css.map": "/SunspotHistoryChart/static/css/main.fbf60758.chunk.css.map",
+    "static/js/2.4c5cb92f.chunk.js.LICENSE.txt": "/SunspotHistoryChart/static/js/2.4c5cb92f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/SunspotHistoryChart/static/media/sun.03959240.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69a2fd34.js",
+    "static/js/2.4c5cb92f.chunk.js",
+    "static/css/main.fbf60758.chunk.css",
+    "static/js/main.1580ceba.chunk.js"
+  ]
+}
