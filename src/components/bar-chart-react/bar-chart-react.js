@@ -38,7 +38,6 @@ export default class BarChartReact extends Component {
                             y={h - yDataScale(d[1])}
                             width={bar_width}
                             height={yDataScale(d[1])}
-                            fill="black"
                             className="bar"
                             >
                             <title>{d[1]}</title>
