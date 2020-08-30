@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe0f045e16d687fa673050faa6d73fa6",
+    "revision": "a24979986e6cd498300aaa372d12f3c9",
     "url": "/SunspotHistoryChart/index.html"
   },
   {
-    "revision": "3df72c9d1b20fd8075fd",
-    "url": "/SunspotHistoryChart/static/css/main.fbf60758.chunk.css"
+    "revision": "6ee99c694c9e79afceee",
+    "url": "/SunspotHistoryChart/static/css/main.1d7228a5.chunk.css"
   },
   {
     "revision": "67090d1d6f4aa22c872b",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SunspotHistoryChart/static/js/2.4c5cb92f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3df72c9d1b20fd8075fd",
-    "url": "/SunspotHistoryChart/static/js/main.1580ceba.chunk.js"
+    "revision": "6ee99c694c9e79afceee",
+    "url": "/SunspotHistoryChart/static/js/main.0de78a5b.chunk.js"
   },
   {
     "revision": "df2a858be96899201f63",

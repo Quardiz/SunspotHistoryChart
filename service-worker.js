@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SunspotHistoryChart/precache-manifest.5a69d2d61bcfbacad4d828e5a8dc371d.js"
+  "/SunspotHistoryChart/precache-manifest.ed7c2669b9a8cec39c370d7b9f3e3316.js"
 );
 
 self.addEventListener('message', (event) => {
