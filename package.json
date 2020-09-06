@@ -1,6 +1,7 @@
 {
   "name": "bar-chart",
   "version": "0.1.0",
+  "author": "Quardiz",
   "private": true,
   "homepage": "http://quardiz.github.io/SunspotHistoryChart",
   "dependencies": {
